@@ -1,2 +1,2 @@
 # Homelab
-Homelab resources
+Diagram of my Homelab
